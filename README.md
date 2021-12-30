@@ -1,3 +1,3 @@
-# `itsdoble.github.io`;
+# `itsdoble.github.io`
 
 My personal website :D
